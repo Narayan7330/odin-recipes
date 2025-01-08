@@ -1,1 +1,2 @@
 # odin-recipes
+this is my first project in theodinproject , which uses html foundation to create an simple website which contains recipies of my favourite food , as i mentioned that it was my website , so it seems too basics as i am on way to learn css and js .
