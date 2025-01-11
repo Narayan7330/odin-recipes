@@ -11,9 +11,55 @@ body {
   width: 50%;
 
 }
-.centre {
+#odintext {
 
   text-align: center;
   color: aliceblue;
   
 }
+.centre {
+
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-color: black;
+ 
+}
+.headind_color {
+
+  color:gold;
+  text-align: center;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: black;
+  }
+  
+  .recipe_back{
+  background-color: rgb(141, 163, 147);
+  }
+  
+  .image
+  {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-color: black;
+  }
+  .Description
+  {
+  
+  text-align: center;
+  color: rgb(195, 255, 15);
+  background-color: black;
+  }
+  
+  .home {
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    font-weight: bolder;
+    
+  
+  }
+
