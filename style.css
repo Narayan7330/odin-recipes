@@ -1,0 +1,19 @@
+
+body {
+  background-color: rgb(15, 14, 14);
+}
+
+#odin_recipe {
+
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+
+}
+.centre {
+
+  text-align: center;
+  color: aliceblue;
+  
+}
